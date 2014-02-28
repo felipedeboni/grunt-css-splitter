@@ -1,0 +1,15 @@
+.button {
+  display: inline-block;
+}
+
+/* SPLITTER BEGIN: comments-theme.css */
+.button {
+  background-color: #0066ff;
+  /* background-color: #FFF; */
+}
+/* SPLITTER END: comments-theme.css */
+
+/* sets the width */
+.button {
+  width: 10px;
+}

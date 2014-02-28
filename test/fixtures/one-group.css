@@ -1,0 +1,13 @@
+.button {
+  display: inline-block;
+}
+
+.button {
+  width: 10px;
+}
+
+/* SPLITTER BEGIN: one-group-theme.css */
+.button {
+  background-color: #0066ff;
+}
+/* SPLITTER END: one-group-theme.css */

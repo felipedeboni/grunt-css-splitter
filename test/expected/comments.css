@@ -1,0 +1,10 @@
+.button {
+  display: inline-block;
+}
+
+
+
+/* sets the width */
+.button {
+  width: 10px;
+}

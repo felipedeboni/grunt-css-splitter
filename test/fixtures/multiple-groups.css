@@ -1,0 +1,19 @@
+/* SPLITTER BEGIN: multiple-groups-theme.css */
+.button {
+  background-color: #0066ff;
+}
+/* SPLITTER END: multiple-groups-theme.css */
+
+.button {
+  display: inline-block;
+}
+
+.button {
+  width: 10px;
+}
+
+/* SPLITTER BEGIN: multiple-groups-theme-2.css */
+.button {
+  background-color: red;
+}
+/* SPLITTER END: multiple-groups-theme-2.css */

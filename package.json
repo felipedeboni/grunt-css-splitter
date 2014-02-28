@@ -1,0 +1,42 @@
+{
+  "name": "grunt-css-splitter",
+  "description": "Extract css blocks to another files.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/felipedeboni/grunt-css-splitter",
+  "author": {
+    "name": "Felipe K. De Boni",
+    "email": "pkz.dev@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felipedeboni/grunt-css-splitter"
+  },
+  "bugs": {
+    "url": "https://github.com/felipedeboni/grunt-css-splitter/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/felipedeboni/grunt-css-splitter/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-copy": "~0.5.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
