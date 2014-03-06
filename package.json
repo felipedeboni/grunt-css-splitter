@@ -1,7 +1,7 @@
 {
   "name": "grunt-css-splitter",
   "description": "Extract css blocks to another files.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/felipedeboni/grunt-css-splitter",
   "author": {
     "name": "Felipe K. De Boni",

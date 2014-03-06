@@ -131,7 +131,7 @@ module.exports = function(grunt) {
       if ( fileExists( file.src[0] ) ) {
         process( file, grunt.file.read(file.src[0]) );
       } else {
-        grunt.log.warn('Source file "' + filepath + '" not found.');
+        grunt.log.warn('Source file "' + file.src[0] + '" not found.');
       }
     });
 
